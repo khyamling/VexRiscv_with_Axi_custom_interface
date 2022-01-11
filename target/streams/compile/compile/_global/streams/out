@@ -1,0 +1,11 @@
+[0m[[0m[33mwarn[0m] [0m[0m/home/khyam/Desktop/VexRiscv/CFU-Playground/soc/vexriscv/src/main/scala/vexriscv/GenCoreDefault.scala:18:18: imported `VexRiscv' is permanently hidden by definition of class VexRiscv in package vexriscv[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport vexriscv.{VexRiscv, VexRiscvConfig, plugin}[0m
+[0m[[0m[33mwarn[0m] [0m[0m                 ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/khyam/Desktop/VexRiscv/CFU-Playground/soc/vexriscv/src/main/scala/vexriscv/GenCoreDefault.scala:18:28: imported `VexRiscvConfig' is permanently hidden by definition of object VexRiscvConfig in package vexriscv[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport vexriscv.{VexRiscv, VexRiscvConfig, plugin}[0m
+[0m[[0m[33mwarn[0m] [0m[0m                           ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/khyam/Desktop/VexRiscv/CFU-Playground/soc/vexriscv/src/main/scala/vexriscv/GenCoreDefault.scala:18:44: imported `plugin' is permanently hidden by definition of package plugin in package vexriscv[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport vexriscv.{VexRiscv, VexRiscvConfig, plugin}[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                           ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mthere was one deprecation warning; re-run with -deprecation for details[0m
+[0m[[0m[33mwarn[0m] [0m[0mfour warnings found[0m
